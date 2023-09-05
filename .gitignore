@@ -7,7 +7,6 @@ tools/webpack/node_modules
 tools/gulp/node_modules
 
 # build artefacts
-public
 tools/webpack/dist
 tools/gulp/dist
 

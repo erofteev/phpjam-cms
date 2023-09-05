@@ -1,0 +1,20 @@
+# folders
+tools
+
+# dependencies installed by npm
+node_modules
+tools/webpack/node_modules
+tools/gulp/node_modules
+
+# build artefacts
+public
+tools/webpack/dist
+tools/gulp/dist
+
+# secrets and errors
+.env
+.log
+
+# macOS related files
+.DS_Store
+
